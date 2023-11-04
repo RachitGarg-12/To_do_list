@@ -5,7 +5,7 @@ Made this project for me to better learn React.js with the Flux pattern, as well
 
 Running the project
 Install node.js and npm
-$ git clone https://github.com/ednunezg/react-todolist
+$ git clone https://github.com/RachitGarg-12/To_do_list
 Install dependencies $ npm install
 Now run the app : npm start
 Go to http://localhost:3000
